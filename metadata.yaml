@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '892'
     url: http://www.gutenberg.org/2009/agents/892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44627#The-Indians-of-the-Painted-Desert-RegionHopis-Navahoes-Wallapais-Havasupais
 gutenberg_issued: '2014-01-08'
 gutenberg_type: Text
 identifiers:
