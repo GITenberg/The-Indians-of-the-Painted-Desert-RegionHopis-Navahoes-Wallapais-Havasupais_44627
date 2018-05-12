@@ -1,0 +1,28 @@
+_repo: The-Indians-of-the-Painted-Desert-RegionHopis-Navahoes-Wallapais-Havasupais_44627
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44627-h/images/cover-image1.jpg
+creator:
+  author:
+    agent_name: James, George Wharton
+    alias: James, G. Wharton (George Wharton)
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '892'
+    url: http://www.gutenberg.org/2009/agents/892
+description: ''
+gutenberg_issued: '2014-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44627'
+  lccn: 03019707
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Southwest, New'
+- !lcc 'E011'
+title: 'The Indians of the Painted Desert Region: Hopis, Navahoes, Wallapais, Havasupais'
+url: http://www.gutenberg.org/ebooks/44627
